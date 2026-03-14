@@ -1,6 +1,6 @@
-# CivicGuard — Anonymous Drug Reporting Platform
+# AnonSentra — Anonymous Drug Reporting Platform
 
-CivicGuard is a secure, anonymous reporting platform that allows citizens to report drug-related or other civic incidents without exposing their identity. It features an integrated AI (Google Gemini) that automatically verifies evidence photos, a secure backend that bypasses database row-level security (RLS) for anonymous reports, and automated email and Twilio alerts to authorities.
+AnonSentra is a secure, anonymous reporting platform that allows citizens to report drug-related or other civic incidents without exposing their identity. It features an integrated AI (Google Gemini) that automatically verifies evidence photos, a secure backend that bypasses database row-level security (RLS) for anonymous reports, and automated email and Twilio alerts to authorities.
 
 ## Project Structure
 
