@@ -1,0 +1,14 @@
+# Environment variables - NEVER push these
+.env
+.env.local
+.env.production
+
+# Node modules - too large
+node_modules/
+
+# Uploaded files from reports
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
